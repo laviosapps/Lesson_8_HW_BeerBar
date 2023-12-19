@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		71AD4D232B2DEBB8001CF5E5 /* BeerManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71AD4D222B2DEBB8001CF5E5 /* BeerManager.swift */; };
+		71AD4D252B2DEC11001CF5E5 /* Beer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71AD4D242B2DEC11001CF5E5 /* Beer.swift */; };
 		71E595112B2AF04C002262F7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71E595102B2AF04C002262F7 /* AppDelegate.swift */; };
 		71E595132B2AF04C002262F7 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71E595122B2AF04C002262F7 /* SceneDelegate.swift */; };
 		71E595152B2AF04C002262F7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71E595142B2AF04C002262F7 /* ViewController.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		71AD4D222B2DEBB8001CF5E5 /* BeerManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeerManager.swift; sourceTree = "<group>"; };
+		71AD4D242B2DEC11001CF5E5 /* Beer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Beer.swift; sourceTree = "<group>"; };
 		71E5950D2B2AF04C002262F7 /* Lesson_8_HW_BeerBar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Lesson_8_HW_BeerBar.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		71E595102B2AF04C002262F7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		71E595122B2AF04C002262F7 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +63,8 @@
 				71E595102B2AF04C002262F7 /* AppDelegate.swift */,
 				71E595122B2AF04C002262F7 /* SceneDelegate.swift */,
 				71E595142B2AF04C002262F7 /* ViewController.swift */,
+				71AD4D222B2DEBB8001CF5E5 /* BeerManager.swift */,
+				71AD4D242B2DEC11001CF5E5 /* Beer.swift */,
 				71E595162B2AF04C002262F7 /* Main.storyboard */,
 				71E595192B2AF04E002262F7 /* Assets.xcassets */,
 				71E5951B2B2AF04E002262F7 /* LaunchScreen.storyboard */,
@@ -139,6 +145,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				71E595152B2AF04C002262F7 /* ViewController.swift in Sources */,
+				71AD4D232B2DEBB8001CF5E5 /* BeerManager.swift in Sources */,
+				71AD4D252B2DEC11001CF5E5 /* Beer.swift in Sources */,
 				71E595112B2AF04C002262F7 /* AppDelegate.swift in Sources */,
 				71E595132B2AF04C002262F7 /* SceneDelegate.swift in Sources */,
 			);
